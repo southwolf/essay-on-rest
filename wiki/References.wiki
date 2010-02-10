@@ -6,3 +6,13 @@
 *HTTP 1.1 RCF2616* [http://www.w3.org/Protocols/rfc2616/rfc2616.html English Version] | [http://www.blogjava.net/sunchaojin/archive/2009/05/31/279164.html Chinese Version]
 
 *Fielding's REST Paper* [http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm English Version] | [http://www.redsaga.com/opendoc/REST_cn.pdf Chinese Version(PDF)]
+
+==Web Knowledgebases==
+
+[http://www.searchsoa.com.cn/articlelist_393.htm TTSOA REST]
+
+[http://www.cnblogs.com/weidagang2046/archive/2009/05.html Todd.NET Rest Architecture Style]
+
+[http://www.ibm.com/developerworks/cn/java/j-lo-struts2rest/ 李刚 Struts2 REST]
+
+InfoQ REST [http://www.infoq.com/rest English] | [http://www.infoq.com/cn/rest Chinese]
