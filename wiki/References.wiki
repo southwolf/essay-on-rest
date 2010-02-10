@@ -1,8 +1,8 @@
-#summary One-sentence summary of this page.
+#summary References pages, books, and papers.
 
 = Introduction =
 
-References Web Pages, books, and papers.
+References web pages, books, and papers.
 
 = Details =
 ===Basic Materials===
