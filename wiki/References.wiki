@@ -15,6 +15,8 @@
 
 [http://www.cnblogs.com/weidagang2046/archive/2009/05.html Todd.NET Rest Architecture Style]
 
+[http://www.ibm.com/developerworks/cn/ IBM DW]
+
 [http://www.ibm.com/developerworks/cn/java/j-lo-struts2rest/ 李刚 Struts2 REST]
 
 InfoQ REST [http://www.infoq.com/rest English] | [http://www.infoq.com/cn/rest Chinese]
