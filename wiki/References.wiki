@@ -3,7 +3,9 @@
 
 ==Basic Materials==
 
-*HTTP 1.1 RCF2616* [http://www.w3.org/Protocols/rfc2616/rfc2616.html English Version] | [http://www.blogjava.net/sunchaojin/archive/2009/05/31/279164.html Chinese Version]
+*HTTP 1.0 RFC1945* [http://www.w3.org/Protocols/rfc1945/rfc1945 English Version] | [http://man.chinaunix.net/develop/rfc/RFC1945.txt Chinese Version]
+
+*HTTP 1.1 RFC2616* [http://www.w3.org/Protocols/rfc2616/rfc2616 English Version] | [http://www.blogjava.net/sunchaojin/archive/2009/05/31/279164.html Chinese Version]
 
 *Fielding's REST Paper* [http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm English Version] | [http://www.redsaga.com/opendoc/REST_cn.pdf Chinese Version(PDF)]
 
