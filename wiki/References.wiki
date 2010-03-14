@@ -20,3 +20,5 @@
 [http://www.ibm.com/developerworks/cn/java/j-lo-struts2rest/ 李刚 Struts2 REST]
 
 InfoQ REST [http://www.infoq.com/rest English] | [http://www.infoq.com/cn/rest Chinese]
+
+http://blog.xdite.net/?p=1754
