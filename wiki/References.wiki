@@ -24,3 +24,5 @@ InfoQ REST [http://www.infoq.com/rest English] | [http://www.infoq.com/cn/rest C
 http://blog.xdite.net/?p=1754
 
 http://www.upulife.com/leo/?p=235
+
+http://www.surui.net/
